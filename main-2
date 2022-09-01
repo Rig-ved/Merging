@@ -1,2 +1,7 @@
 Added as part of main branch main-2
+<<<<<<< HEAD
 main:Added as part of the main changes
+=======
+task:Added changes in main-2
+task: Readded tokens generations in feature branch
+>>>>>>> task/1234
