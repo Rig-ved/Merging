@@ -1,2 +1,6 @@
 Hello Finger Print
+
 Main:Changes in the fingerprint lib
+
+Changes in task-1234 as part of the first commit 
+task: Changes in Fingerprint lib file
