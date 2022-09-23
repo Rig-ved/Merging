@@ -7,3 +7,6 @@ Changes in vault.txt
 Hey my new changes in vault.txt under main
 Hey Current changes in the vault.txt under feature branch
 New changes in the vault.txt under feature branch
+Again changes 
+Applying fastlink changes in the feature branch
+and making a final commit 
